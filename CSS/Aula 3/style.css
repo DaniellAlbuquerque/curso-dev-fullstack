@@ -1,0 +1,32 @@
+body {
+    background-image: url(background.jpg);
+   /* background-position: 100% 10%;*/
+  /* background-repeat: no-repeat;*/
+  /* background-position: right center;*/
+  background-size:cover;
+  background-attachment: fixed;
+
+}
+
+h3{
+color:rgb(0, 0, 0);
+}
+
+  .foto{
+      width: 200px;
+      
+  }  
+  p{
+      color:#000000;
+  }
+li{
+    color:#000000
+
+}
+h1{
+    color:rgba(181, 167, 167, 0.72)
+}
+h2{
+    color:black;
+}
+
